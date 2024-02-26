@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/inoxentjunaid5" target="blank"><img src="https://img.shields.io/twitter/follow/inoxentjunaid5?logo=twitter&style=for-the-badge" alt="inoxentjunaid5" /></a> </p>
 
-- 🔭 I’m currently working on **Html Css JavaScript BootStrap React-js Next-js**
+- 🔭 I’m currently working on **React-Native Node-js Mongodb**
 
 - 🌱 I’m currently learning **React-Native**
 
