@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Junaid ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Junaid Hussain</h1>
+<h3 align="center">Full Stack developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" autoplay>
 
 
